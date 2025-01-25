@@ -10,7 +10,7 @@
 		"generate": "nuxt generate",
 		"preview": "nuxt preview",
 		"postinstall": "nuxt prepare",
-		"release": "npm run lib-build && npm run lib-generate-types && npx np"
+		"release": "npm run lib-build && npm run lib-generate-types"
 	},
 	"dependencies": {
 		"@allindevelopers/prettier-config": "^1.0.0",

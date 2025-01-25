@@ -3,6 +3,8 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
+	"module": "dist/vue-inline-svg.js",
+	"types": "dist/vue-inline-svg.d.ts",
 	"peerDependencies": {
 		"html-parse-stringify": "^3.0.1",
 		"vue": "^3.5.13"
