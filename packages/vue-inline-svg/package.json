@@ -14,6 +14,9 @@
 		"dist",
 		"lib"
 	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 0"
+	},
 	"dependencies": {
 		"html-parse-stringify": "^3.0.1"
 	},
