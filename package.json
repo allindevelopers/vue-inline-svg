@@ -16,5 +16,8 @@
 		"vue": "latest",
 		"vue-router": "latest"
 	},
-	"prettier": "@allindevelopers/prettier-config"
+	"prettier": "@allindevelopers/prettier-config",
+	"workspaces": [
+		"packages/*"
+	]
 }
