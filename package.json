@@ -10,7 +10,8 @@
 		"generate": "nuxt generate",
 		"preview": "nuxt preview",
 		"postinstall": "nuxt prepare",
-		"release": "npm run lib-build && npm run lib-generate-types && npx np"
+		"prerelease": "npm run lib-build && npm run lib-generate-types",
+		"release": "cd packages/vue-inline-svg && npx np"
 	},
 	"dependencies": {
 		"@allindevelopers/prettier-config": "^1.0.0",
