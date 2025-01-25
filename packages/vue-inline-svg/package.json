@@ -1,6 +1,5 @@
 {
 	"name": "@allindevelopers/vue-inline-svg",
-	"private": true,
 	"version": "0.0.0",
 	"type": "module",
 	"module": "dist/vue-inline-svg.js",
