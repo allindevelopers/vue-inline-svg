@@ -15,7 +15,6 @@ import {
 	type WatchCallback,
 	Fragment,
 } from "vue";
-// @ts-expect-error
 import parses from "html-parse-stringify";
 
 interface OwnProps {

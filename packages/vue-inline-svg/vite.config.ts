@@ -7,7 +7,7 @@ export default defineConfig({
 	plugins: [vue()],
 	build: {
 		lib: {
-			entry: resolve(import.meta.dirname, "lib/vue-inline-svg.vue"),
+			entry: resolve(import.meta.dirname, "lib/vue-inline-svg.ts"),
 			fileName: "vue-inline-svg",
 			formats: ["es"],
 		},
