@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { onMounted, ref } from "vue";
-import InlineSvg from "./packages/vue-inline-svg/vue-inline-svg.vue";
+import InlineSvg from "./packages/vue-inline-svg/lib/inline-svg.vue";
 
 const firstSrc = `https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg`;
 const firstStroke = "blue";
