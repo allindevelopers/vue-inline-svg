@@ -1,4 +1,6 @@
-# Nuxt Minimal Starter
+# @allindevelopers/vue-inline-svg
+
+> MVP: https://gist.github.com/iamandrewluca/4a959951c148f0f277fdf8bca152aaa5
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
