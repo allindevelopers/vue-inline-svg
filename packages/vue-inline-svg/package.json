@@ -5,10 +5,6 @@
 	"type": "module",
 	"module": "dist/vue-inline-svg.js",
 	"types": "dist/vue-inline-svg.d.ts",
-	"peerDependencies": {
-		"html-parse-stringify": "^3.0.1",
-		"vue": "^3.5.13"
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/allindevelopers/vue-inline-svg.git",
@@ -17,5 +13,11 @@
 	"files": [
 		"dist",
 		"lib"
-	]
+	],
+	"dependencies": {
+		"html-parse-stringify": "^3.0.1"
+	},
+	"peerDependencies": {
+		"vue": "^3.5.13"
+	}
 }

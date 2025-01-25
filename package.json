@@ -27,8 +27,5 @@
 		"vue-router": "latest",
 		"vue-tsc": "^2.2.0"
 	},
-	"prettier": "@allindevelopers/prettier-config",
-	"workspaces": [
-		"packages/*"
-	]
+	"prettier": "@allindevelopers/prettier-config"
 }
