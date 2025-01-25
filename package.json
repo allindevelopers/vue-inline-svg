@@ -11,11 +11,16 @@
 	},
 	"dependencies": {
 		"@allindevelopers/prettier-config": "^1.0.0",
+		"@vitejs/plugin-vue": "^5.2.1",
+		"@vue/tsconfig": "^0.7.0",
 		"html-parse-stringify": "^3.0.1",
 		"nuxt": "^3.15.2",
 		"prettier": "^3.4.2",
-		"vue": "latest",
-		"vue-router": "latest"
+		"typescript": "~5.6.2",
+		"vite": "^6.0.5",
+		"vue": "^3.5.13",
+		"vue-router": "latest",
+		"vue-tsc": "^2.2.0"
 	},
 	"prettier": "@allindevelopers/prettier-config",
 	"workspaces": [

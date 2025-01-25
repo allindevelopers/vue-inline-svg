@@ -10,10 +10,5 @@
 		"noFallthroughCasesInSwitch": true,
 		"noUncheckedSideEffectImports": true
 	},
-	"include": [
-		"src/**/*.ts",
-		"src/**/*.tsx",
-		"src/**/*.vue",
-		"vue-inline-svg.vue"
-	]
+	"include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
 }
