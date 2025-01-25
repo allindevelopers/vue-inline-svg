@@ -4,6 +4,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "nuxt build",
+		"build-lib": "cd packages/vue-inline-svg && npx vite build",
 		"dev": "nuxt dev",
 		"generate": "nuxt generate",
 		"preview": "nuxt preview",
